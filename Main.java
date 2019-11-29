@@ -70,6 +70,5 @@ public class Main {
         System.out.println("int"+iF);
         /* no ints anymore */
         /* THE END */
-
     }
 }
