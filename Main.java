@@ -2,7 +2,7 @@ package com.homework;
 
 public class Main {
     public static void main(String[] args) {
-        byte byteA= 1;
+        byte byteA = 1;
         byte byteB = 3;
         short shortA = -43;
         short shortB = 28;
